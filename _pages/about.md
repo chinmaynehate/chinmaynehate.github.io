@@ -17,8 +17,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I’m [**Chinmay Dhanraj Nehate**](#), a graduate student at the  
+[**University of Central Florida (UCF)**](https://www.ucf.edu), currently working on my thesis in  
+**robust deep learning for class-imbalanced datasets**. I’m passionate about  
+[**Software Engineering**](#) and [**Advanced Deep Learning**](#), striving to bridge AI with real-world  
+applications through reliable, end-to-end solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before UCF, I served as a **Senior Associate in Software Engineering** at  
+[**Telstra**](https://www.telstra.com), where I contributed to eSIM feature development, code reviews,  
+and robust software architectures. I earned my **Bachelor’s in Electronics Engineering** from  
+[**Veermata Jijabai Technological Institute (VJTI)**](https://www.vjti.ac.in) under  
+[**Mumbai University**](https://mu.ac.in), gaining hands-on experience in **sensor fusion**,  
+**hardware–software integration**, **robotics**, and **autonomous systems**. Whether refining deep learning models  
+or building scalable software pipelines, I aim to deliver practical, high-impact technology.
