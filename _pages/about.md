@@ -2,14 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='#'>M.S. in Computer Engineering</a>. Orlando, FL. AI & Robotics."
+subtitle: "<a href='#'>Computer Engineering M.S. Student at University of Central Florida.</a>"
 profile:
   align: right
   image: chinmay.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
-    <p>Orlando, FL</p>
-    <p>USA</p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p style="text-align: right;">Orlando, FL,</p>
+    <p style="text-align: right;">USA</p>
 news: true
 selected_papers: true
 social: true
