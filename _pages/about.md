@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "<a href='#'>Computer Engineering M.S. Student at University of Central Florida.</a>"
 profile:
